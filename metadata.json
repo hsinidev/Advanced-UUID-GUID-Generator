@@ -1,0 +1,5 @@
+{
+  "name": "Advanced UUID/GUID Generator",
+  "description": "A powerful, client-side UUID/GUID v4 generator with bulk creation capabilities and copy-to-clipboard functionality, all presented in a sleek, cosmic-themed interface. Includes a comprehensive guide to understanding and using UUIDs.",
+  "requestFramePermissions": []
+}
