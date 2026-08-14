@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Advanced Uuid Guid Generator
-### *Modern, High-Performance JavaScript Solution & Developer Suite*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Advanced%20Uuid%20Guid%20Gener&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Advanced Uuid Guid Generator Header Banner" />
+
+  <h1>🚀 Advanced Uuid Guid Generator</h1>
+  <p><em>Modern, High-Performance JavaScript Solution & Developer Suite</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-TypeScript-3178C6?style=for-the-badge" alt="Language: TypeScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-JavaScript-6366f1?style=for-the-badge" alt="Framework: JavaScript" /></a>
+    <a href="https://github.com/hsinidev/Advanced-UUID-GUID-Generator"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Advanced Uuid Guid Generator** is a production-grade **TypeScript** platform engineered for high reliability, clean architectural separation, and frictionless developer workflow.
@@ -25,6 +29,7 @@
 - **Production Ready**: Built-in error resilience, validation, and structured logging.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `TypeScript`
@@ -32,49 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# 🔢 Advanced UUID/GUID Generator
-
-
-A modern, zero-build, single-file web application to generate unique UUIDs (Version 4) using client-side JavaScript. Designed with a sleek, dark cosmic theme and integrated with advanced SEO content for maximum visibility.
-
-## ✨ Key Features
-
-- **Secure & Fast Generation:** Utilizes the browser's native `crypto.getRandomValues()` API for cryptographically secure, instantaneous UUID generation.
-- **Bulk Generation Tool:** Create and copy up to 100 unique IDs at once for database seeding, testing, or other development needs.
-- **Stunning Aesthetics:** Features an animated, multi-colored nebula background and a professional, user-friendly interface.
-- **Rich SEO Content:** Includes a massive, collapsible 3500-word article on UUIDs to provide value and improve search engine ranking.
-- **Fully Responsive:** Works flawlessly on desktops, tablets, and mobile devices.
-- **Zero Dependencies:** A pure HTML, CSS, and JavaScript application with no build step required.
-
-## 🛠️ Tech Stack
-
-- **HTML5**
-- **Tailwind CSS** (via CDN)
-- **React** (via CDN import maps)
-- **TypeScript**
-
-## 🚀 Usage
-
-As this is a zero-build application, you can use it directly.
-
-1.  Clone the repository or download the `index.html` file.
-2.  Open `index.html` in any modern web browser.
-
-The generator is now ready to use.
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the project's issues page for bugs or to suggest enhancements.
-
-
-
----
-
-**Built with ❤️ by [HSINI MOHAMED](https://github.com/hsinidev) ([doodax.com](https://doodax.com))**
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
